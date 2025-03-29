@@ -3,14 +3,12 @@ import { BrowserRouter } from "react-router-dom";
 import {
   About,
   Contact,
-  Experience,
-  Feedbacks,
+  DSA,
   Hero,
   Navbar,
-  Tech,
-  Works,
   StarsCanvas,
-  DSA,
+  Tech,
+  Works
 } from "./components";
 import Footer from "./components/Footer";
 
